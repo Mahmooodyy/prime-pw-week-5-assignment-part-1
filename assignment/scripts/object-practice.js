@@ -9,6 +9,11 @@ console.log('***** Object Practice *****')
   - Also give it an array 'favThreeFoods'
 */
 const me = {
+  firstName: 'Mahmoud ',
+  lastName: 'Mahmoud ',
+  hasSiblings: true,
+  shoeCount: 5,
+  threeFavFoods: ['Pasta', 'Pizza', 'Steak']
   // TODO - add properties here
 };
 console.log('A little about me:', me);
@@ -19,6 +24,7 @@ console.log('A little about me:', me);
     created above to set its value. 
   - Console.log fullName
 */
+
 
 
 
@@ -35,6 +41,8 @@ console.log('A little about me:', me);
   - Set your object's shoeCount to be what it was plus 1
   - Console.log your updated shoe count. 
 */
+
+
 
 
 /* 5. Add a new property to an existing object.
